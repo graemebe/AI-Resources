@@ -8,16 +8,20 @@
 * Neural Networks and Deep Learning
 http://neuralnetworksanddeeplearning.com/
 
-
-
 ## Courses
 
 ### Free online MIT courses
 
-MIT Introduction to Deep Learning | 6.S191
+MIT Introduction to Deep Learning | 6.S191 (2024)
 * Course website: https://introtodeeplearning.com/
-  * MIT 6.S191: Lecture 1: [MIT Introduction to Deep Learning (2023) | 6.S191](https://www.youtube.com/watch?v=QDX-1M5Nj7s) 
-  * MIT 6.S191: Lecture 2: [Recurrent Neural Networks, Transformers, and Attention](https://www.youtube.com/watch?v=dqoEU9Ac3ek)
+  * MIT 6.S191: Lecture 1: [MIT Introduction to Deep Learning (2023) | 6.S191](https://youtu.be/ErnWZxJovaM)
+  * MIT 6.S191: Lecture 2: [Recurrent Neural Networks, Transformers, and Attention](https://youtu.be/dqoEU9Ac3ek)
+  * MIT 6.S191: Lecture 3: [Convolutional Neural Networks](https://youtu.be/2xqkSUhmmXU)
+  * MIT 6.S191: Lecture 4: [Deep Generative Modeling](https://youtu.be/Dmm4UG-6jxA?si)
+  * MIT 6.S191: Lecture 5: [Reinforcement Learning](https://youtu.be/8JVRbHAVCws)
+  * MIT 6.S191: Lecture 6: [Language Models and New Frontiers](https://youtu.be/N1fbskTpwZ0)
+  * MIT 6.S191: Lecture 7: [(Google) Generative AI for Media](https://youtu.be/P7Hkh2zOGQ0)
+  * MIT 6.S191: Lecture 3: [Building AI Models in the Wild](https://youtu.be/ZAGiinWiFsE)
 
 ### PyTorch
 
