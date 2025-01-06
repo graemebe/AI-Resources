@@ -36,3 +36,7 @@ MIT Introduction to Deep Learning | 6.S191 (2024)
 * Neural Networks: Zero to Hero
   * https://karpathy.ai/zero-to-hero.html
   * https://www.youtube.com/@AndrejKarpathy
+
+## Commercial Companies
+
+* [Liquid AI](https://www.liquid.ai/)
